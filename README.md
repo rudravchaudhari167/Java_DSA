@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
 |  |
