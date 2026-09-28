@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0136-single-number) |
+| [0229-majority-element-ii](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,8 +67,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0018-4sum) |
+| [0229-majority-element-ii](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
