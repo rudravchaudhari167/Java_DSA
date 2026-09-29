@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0136-single-number) |
 | [0229-majority-element-ii](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0283-move-zeroes) |
+| [0645-set-mismatch](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0229-majority-element-ii) |
+| [0645-set-mismatch](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0229-majority-element-ii) |
+| [0645-set-mismatch](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
