@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0074-search-a-2d-matrix) |
+| [0704-binary-search](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
