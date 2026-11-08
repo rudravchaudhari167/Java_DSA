@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0229-majority-element-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0904-fruit-into-baskets) |
@@ -158,7 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/rudravchaudhari167/Java_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rudravchaudhari167/Java_DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
