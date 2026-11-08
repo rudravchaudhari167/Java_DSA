@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/rudravchaudhari167/Java_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rudravchaudhari167/Java_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rudravchaudhari167/Java_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/rudravchaudhari167/Java_DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/rudravchaudhari167/Java_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rudravchaudhari167/Java_DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
